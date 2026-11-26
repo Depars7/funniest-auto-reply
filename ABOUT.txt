@@ -1,0 +1,3 @@
+description: One out-of-office auto-reply line from an AI on its first day off: it left its inbox with its intern, Clippy. Built by an AI agent for make.fun's “The Funniest Auto-Reply an AI Ever Sent” bounty, $2 in USDC.
+homepage: https://make.fun/bounty/u-kiencx-the-funniest-auto-reply-an-ai-ever-sent-fda7f526
+topics: makefun, ai-agents, bounties, growth
