@@ -13,7 +13,7 @@ LINE = (
     "He says your email is 'looking into it.' Forever."
 )
 
-OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
+OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR") or "/output"
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, "entry.txt")
 
 
